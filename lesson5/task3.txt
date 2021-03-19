@@ -1,0 +1,4 @@
+Ivanov 21050
+Sidorov 19100
+Petrov 23500
+Petrovna 30300
